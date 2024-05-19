@@ -1,0 +1,5 @@
+# Created at 2024-05-19T17:52:42.132
+Boot Manifest-JAR contains absolute paths in classpath 'D:\STS_Workspace01\Spring_React_IotAttendance_WebApp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
