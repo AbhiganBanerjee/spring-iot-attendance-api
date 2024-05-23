@@ -1,4 +1,5 @@
 in\spring\SpringReactIotAttendanceWebAppApplication.class
+in\spring\filter\RefreshHeaderFilter.class
 in\spring\service\MentorServiceImpl.class
 in\spring\rest\ResultsRestController.class
 in\spring\document\Features.class
